@@ -1,10 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4Music.uk" status="banned",4Music [Chặn Kênh]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-#EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Cập nhật: BBC 
+#EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Cập nhật vào 21:35
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-#EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Cập nhật vào 21/3/2023 21:13
+#EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Cập nhật:
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
+#EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", BBC
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
+#EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Samsung TV
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
+#EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Việt Nam
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
+
 #EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Nếu bạn thêm vào 40M3U? Mời bạn thăm 40M3U Github để thêm vào 40M3U mà bạn đang xem
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Chúc bạn xem TV Ốn Định của VTHANH và 40M3U
@@ -435,3 +442,143 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:cb
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-id="S4C.uk" status="blocked",S4C (540p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BeanoTV.uk" status="online",Beano TV (720p)
+https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" status="online",Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" status="online",Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ClubTV.fr" status="online",Club TV (720p)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" status="online",CNN International UK (720p) [Không phải 24/7]
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" status="online",EDGEsport (1080p)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" status="online",Euronews English (720p)
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" status="online",Insight TV (720p)
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWild.nl" status="online",InWild (720p)
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" status="online",InWonder (720p)
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" status="online",MovieSphere (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSAmerica.uk" status="online",PBS America (720p)
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="QwestTVClassical.fr" status="online",Qwest TV Classical (720p) [Chặn địa lý]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr" status="online",Qwest TV Jazz & Beyond (720p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="QwestTVMix.fr" status="online",Qwest TV Mix (720p) [Chặn địa lý]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealStories.uk" status="online",Những câu chuyện có thật (720p)
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SofyTV.ch" status="online",Sofy TV (720p)
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletubbies.uk" status="online",Teletubbies (720p)
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" status="online",Kênh quần vợt (Anh) (720p)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" status="online",Kênh quần vợt (720p)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TimeLine.uk" status="online",Dòng thời gian (720p)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" status="online",Wonder (720p)
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Kênh hài kịch (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Fashion TV (Anh) (1080p) [Không phải 24/7]
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",FTF Dành cho người hâm mộ (720p)
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Fuel TV (1080p)
+https:// Fueltv- Fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Gusto TV (720p)
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Horse and Country (720p)
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Hòa nhạc Qello của Stingray (1080p)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="BRT.vn" status="online",BRT (360p)
+http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CaMauTV.vn" status="blocked",Cà Mau TV (720p) [Geo-blocked]
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="DaNangTV1.vn" status="online",Đà Nẵng TV1 (1080p) [Không phải 24/7]
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 tvg-id="DaNangTV2.vn" status="online",Đà Nẵng TV2 (1080p) [Không phải 24/7]
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="DhammasaphaTV.vn" status="online",Dhammasapha TV (1080p)
+https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" status="online",Đồng Nai 1 (360p) [Không phải 24/7]
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DongNaiTV2.vn" status="online",Đồng Nai 2 (576p) [Không phải 24/7]
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GiaLaiTV.vn" status="online",Gia Lai TV (486p)
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1 tvg-id="HBTV.vn" status="online",HBTV (406p) [Không phải 24/7]
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 tvg-id="HBTV.vn" status="online",HBTV (406p) [Không phải 24/7]
+https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
+#EXTINF:-1 tvg-id="KienGiangTV1.vn" status="blocked",KienGiangTV1 (1080p) [Geo-blocked]
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-id="KienGiangTV.vn" status="blocked",KienGiangTV (1080p) [Geo-blocked]
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 tvg-id="LA34LongAnTV.vn" status="timeout",LA34 Long An (720p)
+http://113.161.229.13/hls-live/livepkgr/liveevent/tv.m3u8
+#EXTINF:-1 tvg-id="LaoChampaTV1.la" status="online",Lao Champa TV 1 (720p)
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LaoHeritageOrganization.la" status="online",Lao Heritage Foundation TV (720p) [Không phải 24/7]
+https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LaoNetTV.la" status="online",Lao Net TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LaoSVTV.vn" status="online",Lào SV TV (480p)
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NingTV.la" status="online",Ning TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OyLaoTV.vn" status="error",Oy Lao TV (720p) [Không phải 24/7]
+https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PNTV.us" status="online",PNTV (720p)
+https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="QRT.vn" status="error",QRT (404p) [Không phải 24/7]
+http://113.161.6.157:8081/hls-live/livepkgr/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="QuocHoiTV.vn" status="online",Quốc Hội (720p)
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="QuocHoiTV.vn" status="online",Quốc Hội (720p)
+https://media.quochoitv.vn/live/qhtv_720p/index.m3u8
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw" status="online",Supreme Master TV (720p)
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="TeaTV.vn" status="online",Tea TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TeaTVKhmer.vn" status="online",Tea TV 2 (720p)
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TienGiangTV.vn" status="online",Tien Giang (720p)
+http://thtg.vn:8001/thtg.m3u8
+#EXTINF:-1 tvg-id="UniquelyThai.vn" status="online",Độc tiếng Thái (720p)
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VITV.vn" status="timeout",VITV (180p)
+http://210.86.230.202:8134/hls-live/livepkgr/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="VNews.vn" status="online",V News
+https://16371213858134.vnns.net/ttxvn_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV1.vn" status="online",VTV1 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV2.vn" status="online",VTV2 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV3.vn" status="online",VTV3 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV4.vn" status="online",VTV4 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV5.vn" status="online",VTV5 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV6.vn" status="online",VTV6 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV7.vn" status="online",VTV7 (1080p) [Geo-blocked][Không 24/7]
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV8.vn" status="online",VTV8 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV9.vn" status="online
+",VTV9 (1080p) [Geo-blocked]
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Xem Thoong TV (720p) [Không 24/7]
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
