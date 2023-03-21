@@ -5,9 +5,10 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Cập nhật vào 21/3/2023 21:13
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-#EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Nếu bạn thêm vào 40M3U, Mời bạn thăm 40M3U Github để thêm vào 40M3U mà bạn đang xem
+#EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Nếu bạn thêm vào 40M3U? Mời bạn thăm 40M3U Github để thêm vào 40M3U mà bạn đang xem
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-
+#EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Chúc bạn xem TV Ốn Định của VTHANH và 40M3U
+https://hqth.me/intro
 #EXTINF:-1 tvg-id="AhlulbaytTV.uk" status="online",Ahlulbayt TV (1080p) [Không phải 24/7]
 http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AhlulbaytTV.uk" status="online",Ahlulbayt TV (1080p) [Không phải 24/7]
