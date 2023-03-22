@@ -11,7 +11,8 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Việt Nam
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-
+#EXTINF:-1 tvg-id="PPVIDEO" status="online", PPVideo
+https://rr1---sn-p5qlsndk.googlevideo.com/videoplayback?expire=1679512849&ei=sQAbZIigD7SH_9EPruSw8Ao&ip=54.237.172.110&id=o-ABqXb8jAFMEGJCeXkADtWXKumLLuKqS13oT10nVp6-3Y&itag=22&source=youtube&requiressl=yes&mh=31&mm=31%2C29&mn=sn-p5qlsndk%2Csn-p5qddn7d&ms=au%2Crdu&mv=m&mvi=1&pl=19&initcwndbps=713750&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=3612.862&lmt=1673728742678190&mt=1679490806&fvip=4&fexp=24007246&beids=24512779&c=ANDROID&txp=5311224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgJbeTAKZsIhWOqvUO1ynYSjF4k8Xh45-iMc04EfkHF5sCIQCRaU4D4hD-48YrXQKV_dICWNXjyFa5CDRnlO_AHHjM-g%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgRYtc49YCsuPpB_HzRYikiQx-baH78kieeSm89jeKckACIFkI24m0mKHoP4sqL05jMku9-PDZ8z_DLw4vLKOL7UHJ&title=%5BONE+HOUR%5D+TV+ERROR+EFFECT
 #EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Nếu bạn thêm vào 40M3U? Mời bạn thăm 40M3U Github để thêm vào 40M3U mà bạn đang xem
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:-1 tvg-id="TV404" group-title=" Bấm vào đây để thông kể của 40M3U này " status="banned", Chúc bạn xem TV Ốn Định của VTHANH và 40M3U
